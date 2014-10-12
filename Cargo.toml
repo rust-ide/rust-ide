@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-ide"
+version = "0.0.1"
+authors = ["Vladimir Motilenko <c-vld@ya.ru>"]
